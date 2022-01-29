@@ -1,4 +1,4 @@
-#CinSity Landing Page
+CinSity Landing Page
 
 The screen recorder I used didn't like it when I resized my browser window, but you get the idea, the page is reactive.
 
