@@ -1,13 +1,11 @@
 import React from 'react';
 import cinSity from './assets/NIGHT_CASINO.png';
 import foundersPass from './assets/foundersPass.gif'
-import theyungestdyl from "./assets/theyungestdyl.jpg"
-import SacaiahShaw from "./assets/SacaiahShaw.jpg"
-import cypher from "./assets/cypher.jpg"
-import Ryan from "./assets/Ryan.jpg"
-
-import checked from "./assets/checked_checkbox.png"
-import unchecked from "./assets/unchecked_checkbox.png"
+import DylanLee from "./assets/DylanLee.jpg"
+import SacaiahShaw from "./assets/SacaiahShawReal.jpg"
+import AliDemiralp from "./assets/AliDemiralp.jpg"
+import Ryan from "./assets/RyanWelsh.jpg"
+import NFTWorlds from "./assets/NFTWorldsImage.png"
 
 function App(){
   return(
@@ -26,7 +24,7 @@ function App(){
           <div
           class="flex justify-center"
           >
-            <img class="object-contain rounded-xl" src={cinSity} alt="Cin Sity"></img>
+            <img class="object-contain rounded-xl" src={NFTWorlds} alt="Cin Sity"></img>
         
           </div>
 
@@ -73,20 +71,28 @@ function App(){
           <div class="pb-6 flex justify-center text-4xl font-mono">Meet The Founders!</div>
           <div class="grid grid-cols-1 md:grid-cols-4 lg:grid-cols-4 gap-3 2xl:gap-64 p-6">
             <div>
-              <img class="flex justify-center pb-3 rounded-full" src={theyungestdyl} alt="theyungestdyl"></img>
-              <a href="https://twitter.com/theyungestdyl" target="blank" class="flex justify-center font-mono text-almost_lavender">theyungestdyl</a>
+              <img class="flex justify-center rounded-full" src={DylanLee} alt="theyungestdyl"></img>
+              <a href="https://twitter.com/theyungestdyl" target="blank" class="underline decoration-2 text-center font-mono text-almost_lavender">https://twitter.com/theyungestdyl</a>
+              <div class="text-center font-mono text-almost_lavender py-6">Dylan Lee</div>
+              <div class="text-center font-mono text-almost_lavender">Founder, Casino Manager, Business Lead</div>
             </div>
             <div>
-              <img class="flex justify-center pb-3 rounded-full" src={cypher} alt="cypher"></img>
-              <a href="https://twitter.com/Cypher__tr" target="blank" class="flex justify-center ont-mono text-almost_lavender">Cypher_tr</a>
+              <img class="flex justify-center rounded-full" src={AliDemiralp} alt="cypher"></img>
+              <a href="https://twitter.com/Cypher__tr" target="blank" class="underline decoration-2 text-center font-mono text-almost_lavender">https://twitter.com/Cypher__tr</a>
+              <div class="text-center font-mono text-almost_lavender py-6">Ali Demiralp</div>
+              <div class="text-center font-mono text-almost_lavender">Founder, Pit Boss, Tech Lead</div>
             </div>
             <div>
-              <img class="flex justify-center  pb-3 rounded-full" src={SacaiahShaw} alt="SacaiahShaw"></img>
-              <a href="https://twitter.com/SacaiahShaw" target="blank" class="flex justify-center font-mono text-almost_lavender">SacaiahShaw</a>
+              <img class="flex justify-center rounded-full pb-1" src={SacaiahShaw} alt="SacaiahShaw"></img>
+              <a href="https://twitter.com/SacaiahShaw" target="blank" class="underline decoration-2 text-center font-mono text-almost_lavender">https://twitter.com/SacaiahShaw</a>
+              <div class="text-center font-mono text-almost_lavender py-6">Sacaiah Shaw</div>
+              <div class="text-center font-mono text-almost_lavender">Founder, Casino Host, Marketing Lead</div>
             </div>
-            <div>
-              <img class="flex justify-center pb-3 rounded-full" src={Ryan} alt="Ryan"></img>
-              <a href="https://twitter.com/RyanWel77164418" target="blank" class="flex justify-center font-mono text-almost_lavender">Ryan</a>
+            <div class="">
+              <img class="flex justify-center rounded-full" src={Ryan} alt="Ryan"></img>
+              <a href="https://twitter.com/RyanWel77164418" target="blank" class="underline decoration-2 text-center font-mono text-almost_lavender">https://twitter.com/RyanWel77164418</a>
+              <div class="text-center font-mono text-almost_lavender py-6">Ryan Welsh</div>
+              <div class="text-center font-mono text-almost_lavender">Founder, Cage Master, Finances</div>
             </div>
           </div>
         </div>
