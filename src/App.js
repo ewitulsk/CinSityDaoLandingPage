@@ -50,11 +50,14 @@ function App(){
             </div>
           </div>
 
-          <div class="flex justify-center text-twilight_lavender text-center">
-              <button 
-              class="p-6 bg-almost_twilight rounded-xl"
-              onClick={event =>  window.open("https://opensea.io/collection/cinsity-dao-founders-pass")}
-              >Purchase On Opensea!</button>          
+          <div class="justify-center text-twilight_lavender text-center">
+            <div class="p-6">
+              <a href="https://cinsitydao.gitbook.io/cinsity-dao/" target="blank" class="underline decoration-2">View Our Documentation!</a>
+            </div>
+            <button 
+            class="p-6 bg-almost_twilight rounded-xl"
+            onClick={event =>  window.open("https://opensea.io/collection/cinsity-dao-founders-pass")}
+            >Purchase On Opensea!</button>          
           </div>
 
           <div
