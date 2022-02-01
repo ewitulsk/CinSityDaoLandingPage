@@ -52,7 +52,7 @@ function App(){
 
           <div class="justify-center text-twilight_lavender text-center">
             <div class="p-6">
-              <a href="https://cinsitydao.gitbook.io/cinsity-dao/" target="blank" class="underline decoration-2">View Our Documentation!</a>
+              <a href="https://cinsitydao.gitbook.io/cinsity-dao/" target="blank" class="underline decoration-2 text-4xl font-mono">View Our Documentation!</a>
             </div>
             <button 
             class="p-6 bg-almost_twilight rounded-xl"
