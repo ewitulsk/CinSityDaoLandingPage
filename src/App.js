@@ -72,26 +72,22 @@ function App(){
           <div class="grid grid-cols-1 md:grid-cols-4 lg:grid-cols-4 gap-3 2xl:gap-64 p-6">
             <div>
               <img class="flex justify-center rounded-full" src={DylanLee} alt="theyungestdyl"></img>
-              <a href="https://twitter.com/theyungestdyl" target="blank" class="underline decoration-2 text-center font-mono text-almost_lavender">https://twitter.com/theyungestdyl</a>
-              <div class="text-center font-mono text-almost_lavender py-6">Dylan Lee</div>
+              <a href="https://twitter.com/theyungestdyl" target="blank" class="flex justify-center underline decoration-2 font-mono text-almost_lavender py-6">Dylan Lee</a>
               <div class="text-center font-mono text-almost_lavender">Founder, Casino Manager, Business Lead</div>
             </div>
             <div>
               <img class="flex justify-center rounded-full" src={AliDemiralp} alt="cypher"></img>
-              <a href="https://twitter.com/Cypher__tr" target="blank" class="underline decoration-2 text-center font-mono text-almost_lavender">https://twitter.com/Cypher__tr</a>
-              <div class="text-center font-mono text-almost_lavender py-6">Ali Demiralp</div>
+              <a href="https://twitter.com/Cypher__tr" target="blank" class="flex justify-center underline decoration-2 font-mono text-almost_lavender py-6">Ali Demiralp</a>
               <div class="text-center font-mono text-almost_lavender">Founder, Pit Boss, Tech Lead</div>
             </div>
             <div>
               <img class="flex justify-center rounded-full pb-1" src={SacaiahShaw} alt="SacaiahShaw"></img>
-              <a href="https://twitter.com/SacaiahShaw" target="blank" class="underline decoration-2 text-center font-mono text-almost_lavender">https://twitter.com/SacaiahShaw</a>
-              <div class="text-center font-mono text-almost_lavender py-6">Sacaiah Shaw</div>
+              <a href="https://twitter.com/SacaiahShaw" target="blank" class="flex justify-center underline decoration-2 text-center font-mono text-almost_lavender py-6">Sacaiah Shaw</a>
               <div class="text-center font-mono text-almost_lavender">Founder, Casino Host, Marketing Lead</div>
             </div>
             <div class="">
               <img class="flex justify-center rounded-full" src={Ryan} alt="Ryan"></img>
-              <a href="https://twitter.com/RyanWel77164418" target="blank" class="underline decoration-2 text-center font-mono text-almost_lavender">https://twitter.com/RyanWel77164418</a>
-              <div class="text-center font-mono text-almost_lavender py-6">Ryan Welsh</div>
+              <a href="https://twitter.com/RyanWel77164418" target="blank" class="flex justify-center underline decoration-2 text-center font-mono text-almost_lavender py-6">Ryan Welsh</a>
               <div class="text-center font-mono text-almost_lavender">Founder, Cage Master, Finances</div>
             </div>
           </div>
